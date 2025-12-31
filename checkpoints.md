@@ -8,3 +8,5 @@ done, run `node server/server.ts` compile with `gcc main.c` and run `./a.out`
 ----
 
 # brandon
+- [ ] plan out microservices
+  - [ ] microservices skeleton (to ensure communication)
